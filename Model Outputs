@@ -1,0 +1,13 @@
+Decision Tree:
+    Mean:  4.2233575735318585
+    Standard deviation:  0.6818765901098752
+
+Linear Regression:
+    Mean:  5.037482786117751
+    Standard deviation:  1.0594382405606955
+
+Random Forest Regressor:
+    Mean:  3.3120268106350563
+    Standard deviation:  0.7869563014104995
+    
+rmse is lower is better function. Mean of rmse error is lower for RandomForestRegressor hence better.
